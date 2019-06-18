@@ -845,4 +845,46 @@ a,e,i,o,u, (y) - пишем артикль an
   I have a dog.
   I have an idea. 
 
-  
+
+18.06.2019 (lesson) 
+
+не ставится артикль когда неисчисляемое существительтное
+и когда множественное число
+Если есть притяжательное местоимение мой/твой - артикль не нужен
+
+  I have motivation.
+  I really have motivation.
+  I have knowledge.
+  I relly have knowledge.
+  I really have an idea.
+  I have money.
+  They have money. 
+  I have a friend.
+  I have friends.
+  I like music. 
+  I want a car.
+  I see a teacher. (I see my teacher.) 
+  I have a teacher.
+  I have a girlfriend. 
+  I have a boyfriend.
+  I have a family.
+  I have a question.         
+  We have a question. 
+  They have a question.
+  I see a box.
+  We see a box.
+  I see a computer.
+  I have a computer.
+  I want a computer.
+  I really want a computer.
+  I want to buy a computer.
+  I really want to buy a computer.
+  I want to buy a house.
+  I want to buy a car.
+  I want new knowledge.
+  I really want new knowledge.
+  I want new lessons.
+  I want to watch new lessons.
+  We want to watch new lessons.
+  We really want new knowledge.
+    
