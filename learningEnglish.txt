@@ -949,9 +949,49 @@ a,e,i,o,u, (y) - пишем артикль an
   I have a house.
   I like music.
   
-22.06.2019 (20 lesson)
+22.06.2019 (20 lesson)---------------------------------------------------------------------------------------------------
   I have a car.
-  I have a/an ...
+  I have a/an ... исчисляемое единственное число.
   I have a family. 
-  I see a/an ...
+  I see a/an ...исчисляемое единственное число.
   I see an elephant.
+  I have an idie.
+  We have an idie.
+  I see you have an idie.
+  They have an idie.
+  I have time.
+  We have time.
+  You have time.
+  They have time.
+  I have free time.
+  We have free time.
+  You have free time.
+  They have free time.
+  I have a problem.
+  We have a problem.
+  I see you have a problem.
+  I see you have a question.
+  They have a question.
+  We have money.
+  We have motivation.
+  I see you have motivation.
+  They have motivation.
+  They have a house.
+  I have a result.
+  We have a result.
+  I see you have a result.
+  They have a result.
+  We have a teacher.
+  They have a teacher.
+  I have a plan.
+  We have a plan.
+  I see you have a plan.
+  They have a plan.
+  They want to buy a car.
+  They have a computer.
+  They see I have knowledge.
+  I have real knowledge.
+  We have real knowledge.
+  I see you have real knowledge.
+  I see I have real knowledge.
+  They see I have real knowledge.
