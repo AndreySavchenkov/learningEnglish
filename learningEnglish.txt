@@ -995,3 +995,52 @@ a,e,i,o,u, (y) - пишем артикль an
   I see you have real knowledge.
   I see I have real knowledge.
   They see I have real knowledge.
+
+23.06.2019 (21 lesson) ------------------------------------------------------------------------------------------------
+1.We see real progres.
+2.They have motivation.
+3.We have free time.
+4.They see real progress.
+5.I have a car.
+6.They have free time.
+7.We have a teacher.
+8.They have a result.
+9.They have a plan.
+10.I have a plan.
+11.They have a computer.
+12.We have an idia.
+13.They see I have real knowledge.
+14.They have a question.
+15.They see I have knowledge.
+16.They have a teacher.
+17.We have motivation.
+18.I see you have a plan.
+19.I understand you see real progress.
+20.I have an idia.
+21.I have free time.
+22.We have a problem.
+23.I see you have real knowledge.
+24.I have a problem.
+25.I have real knowledge.
+26.We have a result.
+27.They have time.
+28.I see you have a question.
+29.I see you have moivation.
+30.I see an elephant.
+31.They have a house.
+32.They have an idia.
+33.I have a result.
+34.We have real knowledge.
+35.I have time.
+36.We have time.
+37.I see I have real knowledge.
+38.You have time.
+39.You have free time.
+40.I see you have a result.
+41.We have money.
+42.We have a plan.
+43.I have a family.
+44.I see you have a problem.
+45.I see you have an idia.
+46.They want to buy a car.
+47.I see real progress.
