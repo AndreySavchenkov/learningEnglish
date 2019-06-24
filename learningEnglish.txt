@@ -1044,3 +1044,51 @@ a,e,i,o,u, (y) - пишем артикль an
 45.I see you have an idia.
 46.They want to buy a car.
 47.I see real progress.
+
+24.06.2019(22 lesson)--------------------------------------------------------------------------------------------------------------
+1. не ставиться артикль когда есть указательное местоимение this/that (этот/тот)
+I like this lesson.
+I like that lesson.
+
+2.my/your ... притяжательные местоимения - артикль не ставиться
+I see my result.
+I understand your question.
+
+3. one/two/three с чеслительными артикль не ставится
+I have one brother.
+I have a brother.
+I have two brothers.
+I have two sisters.
+I have three questions.
+I have a mistake.
+I have one mistake.
+I have two mistakes.
+I have three mistakes.
+I see a mistake.
+I see one mistake.
+I see two mistakes.
+I see three mistakes.
+
+4.Uncountable - неисчесляемое (countable - исчисляемое)
+I have time.
+I have free time.
+
+5.Country/city/language 
+I live in Grodno.
+I know English.
+the Undited States of America
+the UK/ the United Kingdom
+
+6.устойчивые выражение\фиксированные выражения - Fixed expressions (phrases)
+I study at school.
+I go to work.
+
+7.Множественное число (Plural(two/three..)) (singular - единственное число)
+I have friends.
+I have some(некоторые) questions.
+I have some idias.
+I have some knowledge.
+I have some motivation.
+
+8.Обращения
+Thank you, theacher!
