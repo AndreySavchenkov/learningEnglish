@@ -1324,3 +1324,62 @@ music
 motivation
 money
 progress
+
+05.07.2019 25 lesson -----------------------------------------------------------------------------------------------------------------------------------
+[z], [s], [iz]
+1.day - days
+2.child - children 
+3.umbrella - umbrellas
+4.exercise - exercises       iz
+5.money 
+6.tense - tenses   [iz]
+7.knowledge 
+8. city - cities [iz]
+9. question - questions
+10.university - universities [iz]
+11.boy - boys
+12.teacher - teachers
+13.problem - problems
+14.language - languages [iz]
+15.woman - women 
+16.toy - toys
+17. native speaker - native speakers
+18.brother - brothers
+19.student - stundents
+20. dog - dogs
+21. bus - buses [iz]
+22. idea - ideas 
+23.elephant - elephants 
+24.man - men 
+25.number - numbers 
+26.plan - plans 
+27.girl - girls 
+28.sister - sisters
+29. cat - cats
+30.tooth - teeth 
+31.pencil - pencils
+32. fact - facts 
+33. apple - apples
+34. state - states
+35. lamp - lamps
+36. thing - things
+37. box - boxes [iz]
+38. father - fathers
+39.comment - comments 
+40.mather - mathers 
+41.place - places [iz]
+42.computer - computers
+43.car - cars
+44.game - games
+45.pen - pens
+46.orange - oranges 
+47.zoo - zoos
+48.lesson - lessons
+49.robot - robots
+50.method - methods 
+51. house - houses [iz]
+52.school - schools
+53.village - villages [iz]
+54. book - books 
+55.country - countries [iz]
+
