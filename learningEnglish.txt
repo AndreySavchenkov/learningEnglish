@@ -8830,6 +8830,7 @@ helps you because you make good progress and you learn English more effectively.
 
 31.01.2020 Duolingo ----------------------------------------------------------------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 02.02.2020  179 lesson ------------------------------------------------------------------------------------------------------------------------------------
 
 161. I do these exercises and I sometimes make mistakes.
@@ -8873,5 +8874,50 @@ helps you because you make good progress and you learn English more effectively.
 199. Is it more interesting or not?
 200. I know that we learn English step by step and I really like it.
 
+=======
+
+01.02.2020 178 lesson —-----------------------------------------------------— 
+ 
+121. I feel real progress. 
+122. He wants to be happy. 
+123. I want to vizit this city. 
+124. Do you live here? 
+125. He has a problem. 
+126. I have a family. 
+127. I want to tell you that it isn't so easy. 
+128. I don't know why she doesn't feel happy. 
+129. I want to say that I don't do it so easily. 
+130. I love you. 
+131. What do you want to do now? I want to call my best friend and discuss one thing. 
+132. We often talk on the phone. And you? Do you often talk of the phone? 
+133. He's fifty. She has one question. 
+134. It doesn't mean that it isn't right. 
+135. First of all, I want to tell you about this thing. 
+136. I want to buy a computer. 
+137. She reads less. 
+138. What do you think about it? 
+139. I really want to watch more lessons. 
+140. Do you want to understand native speakers? 
+141. This rule is really important. 
+142. I learn English very intensively. 
+143. He isn't from England. 
+144. I'm not American. 
+145. I'm from Russian. 
+146. It costs more. We like these tests. 
+147. I see it's so effective. 
+148. We're often together. 
+149. I see he understands it. 
+150. She learns English online. 
+151. Does he want to live in that country? 
+152. How effectively do you learn English here? 
+153. We continue this very important playlist. 
+154. It's really difficult. 
+155. Do you know why they do it? 
+156. They don't study in one group. 
+157. Are they near? 
+158. She works less. 
+159. I really know English. 
+160. I think you know it.
+>>>>>>> 6419ab1b159164d9a64ec0bcbc59113ec0ac70ce
 
 
