@@ -9883,8 +9883,48 @@ help me.
 1079. The lessons are very interesting.
 1080. I have motivation.
 
+202 lesson
 
-
+1081. Do you want it?
+1082. I see this person.
+1083. When do you want to discuss it?
+1084. Do we do it well?
+1085. I want to learn English more intensively because I want more progress.
+1086. My mother is often at home.
+1087. What's strange?
+1088. I want to tell you that thing.
+1089. They say it isn't so good.
+1090. You can do it very easily.
+1091. First of all, I want to vizit this country.
+1092. They have a coumputer.
+1093. He doesn't feel happy.
+1094. He can't say that he's so happy.
+1095. I want to be happy.
+1096. I often watch these videos which are very useful.
+1097. It's interesting.
+1098. We like these results.
+1099. He earns more.
+1100. How intensively does he train?
+1101. He often makes mistakes.
+1102. I want to have this knowledge.
+1103. Your lessons are very informative.
+1104. I think you speak English very well.
+1105. He does it very well. 
+1106. I feel some progress.
+1107. Are they in one group?
+1108. How regularly does she practice Englihs?
+1109. She doesn't train so intensively.
+1110. I see you know it.
+1111. They often play football.
+1112. I often go there.
+1113. I like this lesson because it's very effective.
+1114. All people understand it.
+1115. He makes so many mistakes because he has little practice.
+1116. I like this result.
+1117. He thinks it really works.
+1118. I know she travels every year.
+1119. I understand your problems.
+1120. How old are they?
 
 
 
