@@ -15627,6 +15627,17 @@ He lost his money.
 238. You did it really well.
 239. I drank a cup of tea.
 240. I drank juice. 
+241. He made big money.
+242. It cost more.
+243. It brought me good money.
+244. I had some problems. 
+245. He ran to that place.
+246. I forgot his name.
+247. I found the keys.
+248. The match began.
+249. I chose the right answer. / I chose the correct answer.
+250. I paid for it online.
+
 
 
 
