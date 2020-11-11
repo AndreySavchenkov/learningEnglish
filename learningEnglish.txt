@@ -18460,7 +18460,48 @@ I also impoved my grammar a lot.
 1159.Where did him work?
 1160.I drank some water.
 
+11.11.2020 382 lesson -----------------------------------------------------------------------------------------------------
 
+1161.The lesson was very interesting.
+1162.When did you see her last time?
+1163.We swam in the swimming pool.
+1164.I wanted to write it.
+1165.We didn't udnerstand it.
+1166.I translated these sentencies.
+1167.The exam was very difficult.
+1168.It was very important.
+1169.They lost something.
+1170.I was ready.
+1171.He sold his car.
+1172.He flew to China.
+1173.How difficult was it?
+1174.They were so friendly.
+1175.I wrote a letter.
+1176.I swam in the ocean.
+1177.They knew each other.
+1178.We were ready.
+1179.I translated this exprasion.
+1180.They came to me.
+1181.Did he agree?
+1182.She told me this story.
+1183.I called her yestarday.
+1184.He wasn't at universtity yestarday.
+1185.I sant her a message.
+1186.I preferred to do it later.
+1187.Did it help you or not?
+1188.I watched this lesson and I really liked it.
+1189.It was enough.
+1190.Did you often think about it?
+1191.Did you read this book?
+1192.I ran home.
+1193.They were tired.
+1194.I relaxed after my work.
+1195.They were at the party.
+1196.Did she call you?
+1197.I relaxed enough.
+1198.It seemed so boring.
+1199.Did you save these files?
+1200.How did you do it?
 
 
 
