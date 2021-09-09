@@ -11,10 +11,10 @@ I like this result.
 I like these results.
 I see this problem.
 I see these problems. 
-I see this mestake.
+I see this mistake.
 I see these mistakes. 
 I see this student. 
-I see these stundents.
+I see these students.
 I see my teacher. 
 I understand my teacher. 
 I know this book. 
@@ -31,7 +31,7 @@ I like these exercises.
 I really like these exercises.
 I really like these lessons.
 I want more exercises.
-I want more practic. 
+I want more practice.
 I want more lessons.
 I know. 
 I know it.
@@ -46,7 +46,7 @@ I understand this thing.
 
 21.04.2019--------------------------------------------------------------------------------------------------------------------------------------------------
 I know this thing.
-I know thise things.
+I know these things.
 I know you want it.
 I know you really want it.
 I know you understand it.
@@ -86,17 +86,17 @@ I read English books. я читаю английские книги
 I know you understand it. я знаю ты понимаешь это 
 I know this thing.
 I see you understand me.
-I know these thinkgs.
+I know these things.
 
 11.05.2019 (4й урок) -------------------------------------------------------------------------------------------------------------------------------------
 These things help me. 
 I like this result.
-I want more practic. Я хочу больше практики
+I want more practice. Я хочу больше практики
 I see my teacher. Я вижу своего учителя
 I do it very well. Я делаю это очень хорошо.
 I know these books.
 I do this exercises every day. Я делаю эти упражнения каждый день
-I like thise things.
+I like these things.
 I do it well.
 I read every day.
 I really like these exercises.
@@ -121,7 +121,7 @@ I see you know it.
 48. I like this thing.
 49. I know this book.
 50. I like this lessons.
-51. I see this misstake. Я вижу эту ошибку.
+51. I see this mistake. Я вижу эту ошибку.
 52. These things really help me.
 53. I do these exercises. Я делаю эти упражнения.
 54. I see you understand it. 
@@ -179,8 +179,8 @@ You do it better.
 You do it really well.
 You speak English really well.
 You speak English very well.
-I see you speack English very well.
-I see you speack English really well.
+I see you speak English very well.
+I see you speak English really well.
 We watch this channel every day. мы смотрим этот канал каждый день
 
 14.05.2019 (6 lesson)-------------------------------------------------------------------------------------------------------------------------------------
@@ -237,7 +237,7 @@ They work here.
 They study at school.
 They do it every day.
 They study.
-They go to univerysity.
+They go to university.
 I do it every day.
 They work.
 
@@ -288,7 +288,7 @@ I want to do these exercises.
 I want to do these exercises every day. 
 I want to read books. я хочу читать книги 
 I want to read English books.
-I want to hepl you.
+I want to help you.
 I really want to help you.
 I want to live here.
 I want to live there.
@@ -318,7 +318,7 @@ I want to read books.
 I want to be there. 
 I want to speak English.
 I see you want to help me.
-I want to watch all these vieos.
+I want to watch all these videos.
 I want to know English very well. 
 I want to be happy.
 I really want to learn English.
@@ -366,7 +366,7 @@ I want to do it now.
 
 18.05.2019 (9 lesson)---------------------------------------------------------------------------------------------------------------------------------------
   We continue this playlist. 
-  We continue this very inportant playlist. 
+  We continue this very important playlist.
   I understand you very well.
   I know it very well.
   You speak English very well. 
@@ -392,7 +392,7 @@ I want to do it now.
   very well/ every day - в конце предложения 
   I do it every day.
   I watch this channel every day.
-  lessons/ptoblems/exercises/things - з на конце 
+  lessons/problems/exercises/things - з на конце
   You help me. 
   I like/ I really like
   I see you understand me.
@@ -484,7 +484,7 @@ I want to do it now.
   I read English books. 
   I really understand it.
   I really like this lesson.
-  I go to universtity.
+  I go to university.
   I know this book.
   We study.
   We study there.
@@ -521,7 +521,7 @@ I want to do it now.
   I really want to help you.
   We know English.
   I live there.  
-  I see these studets.
+  I see these students.
   I learn English online.
   I want more exercises.
   They go to work.
@@ -544,7 +544,7 @@ I want to do it now.
   I want to know these things.
   We do it every day.
   I understand it very well.
-  I know you want to visit this sity.
+  I know you want to visit this city.
   I know you study.
   I see you want to understand native speakers.
   I work here.
@@ -565,7 +565,7 @@ I want to do it now.
 23.05.2019 (12 lesson)---------------------------------------------------------------------------------------------------------------------------------------
   I like these lessons.
   I see you speak English very well. 
-  I lern English.
+  I learn English.
   I want to be there.
   I see these mistakes.
   These videos really help me.
@@ -611,7 +611,7 @@ I want to do it now.
   I really understand English.
   I want to learn English.
   You do it every day.
-  I study at shool.
+  I study at school.
   I want more progress.
 
 25.05.2019 (13 lesson)----------------------------------------------------------------------------------------------------------------------------------------
@@ -776,7 +776,7 @@ I want to do it now.
 12.06.2019 (16 lesson Gold playlist)-------------------------------------------------------------------------------------------
   Aa эй  - apple яблоко -  
   Bb би book boy мальчик
-  Cc си cat кот car машина  сomputer 
+  Cc си cat кот car машина  computer
   Dd ди dog собака 
   Ee и elephant слон 
   Ff еф family, father 
@@ -836,7 +836,7 @@ a,e,i,o,u, (y) - пишем артикль an
   We see a bus.
   We see a house. 
   I see a zoo. зоопарк
-  I see a promblem.
+  I see a problem.
   We see a zoo.
   I have ( у меня есть/ я имею) a friend. 
   I have a brother.
@@ -855,7 +855,7 @@ a,e,i,o,u, (y) - пишем артикль an
   I have motivation.
   I really have motivation.
   I have knowledge.
-  I relly have knowledge.
+  I really have knowledge.
   I really have an idea.
   I have money.
   They have money. 
@@ -907,8 +907,8 @@ a,e,i,o,u, (y) - пишем артикль an
   We see a zoo.
   I have a friend.
   I have a dog.
-  We want to wath new lessons.
-  I really have an idiea.
+  We want to watch new lessons.
+  I really have an idea.
   I see a zoo.
   I want to buy a house.
   I see a woman.
@@ -955,10 +955,10 @@ a,e,i,o,u, (y) - пишем артикль an
   I have a family. 
   I see a/an ...исчисляемое единственное число.
   I see an elephant.
-  I have an idie.
-  We have an idie.
-  I see you have an idie.
-  They have an idie.
+  I have an idea.
+  We have an idea.
+  I see you have an idea.
+  They have an idea.
   I have time.
   We have time.
   You have time.
@@ -997,7 +997,7 @@ a,e,i,o,u, (y) - пишем артикль an
   They see I have real knowledge.
 
 23.06.2019 (21 lesson) ------------------------------------------------------------------------------------------------
-1.We see real progres.
+1.We see real progress.
 2.They have motivation.
 3.We have free time.
 4.They see real progress.
@@ -1008,7 +1008,7 @@ a,e,i,o,u, (y) - пишем артикль an
 9.They have a plan.
 10.I have a plan.
 11.They have a computer.
-12.We have an idia.
+12.We have an idea.
 13.They see I have real knowledge.
 14.They have a question.
 15.They see I have knowledge.
@@ -1016,7 +1016,7 @@ a,e,i,o,u, (y) - пишем артикль an
 17.We have motivation.
 18.I see you have a plan.
 19.I understand you see real progress.
-20.I have an idia.
+20.I have an idea.
 21.I have free time.
 22.We have a problem.
 23.I see you have real knowledge.
@@ -1025,10 +1025,10 @@ a,e,i,o,u, (y) - пишем артикль an
 26.We have a result.
 27.They have time.
 28.I see you have a question.
-29.I see you have moivation.
+29.I see you have motivation.
 30.I see an elephant.
 31.They have a house.
-32.They have an idia.
+32.They have an idea.
 33.I have a result.
 34.We have real knowledge.
 35.I have time.
@@ -1041,7 +1041,7 @@ a,e,i,o,u, (y) - пишем артикль an
 42.We have a plan.
 43.I have a family.
 44.I see you have a problem.
-45.I see you have an idia.
+45.I see you have an idea.
 46.They want to buy a car.
 47.I see real progress.
 
@@ -1076,7 +1076,7 @@ I have free time.
 5.Country/city/language 
 I live in Grodno.
 I know English.
-the Undited States of America
+the United States of America
 the UK/ the United Kingdom
 
 6.устойчивые выражение\фиксированные выражения - Fixed expressions (phrases)
@@ -1086,12 +1086,12 @@ I go to work.
 7.Множественное число (Plural(two/three..)) (singular - единственное число)
 I have friends.
 I have some(некоторые) questions.
-I have some idias.
+I have some ideas.
 I have some knowledge.
 I have some motivation.
 
 8.Обращения
-Thank you, theacher!
+Thank you, teacher!
 
 25.06.2019 (22 lesson)------------------------------------------------------------------------------------------------------------------------------
 I see a boy and a girl.
@@ -1116,8 +1116,8 @@ I like this idea.
 I like these ideas.
 I like this plan.
 I like your plan. 
-I like your idia.
-I like your idias.
+I like your idea.
+I like your ideas.
 I like your question.
 I like your questions.
 I like your comments.
@@ -1139,7 +1139,7 @@ They have this money.
 I have some information.
 I want to know this information.
 I want to have this knowledge.
-I want to have this informmation.
+I want to have this information.
 I really want to have real knowledge and I really want to see my real progress. 
 
 26.06.2019 (23 lesson)--------------------------------------------------------------------------------------------------------------------------------
@@ -1213,7 +1213,7 @@ They have this money.
 I like your questions.
 I have a sister and two brothers.
 I see one mistake.
-I want to know this infrormation.
+I want to know this information.
 I have one mistake.
 I see a bus.
 I have two books.
@@ -1282,7 +1282,7 @@ er - на конце читается как [z]
 teachERs 
 computers
 fathers
-mathers
+mothers
 numbers
 sisters
 native speakers
@@ -1298,8 +1298,8 @@ houses
 places
 oranges
 languages 
-vilages
-tences время 
+villages
+tenses время
 exercises
 
 y = y + s (гласная) [z]
@@ -22410,6 +22410,48 @@ but I'm absolutely sure that my English is much better now.
 1834.Does it bring you good money?
 1835.You can explain it so clearly.
 
+09.09.2021 469 lesson ------------------------------------------------------------------------------------------------
+
+1836.These words are new for me.
+1837.This company is very successful. Its workers are very happy that they work here.
+1838.I go to university.
+1839.Will you call him?
+1840.I think this topic is very interesting for us.
+1841.It really happened to me.
+1842.She works on her mistakes.
+1843.I see you rally like it.
+1844.I tested this method.
+1845.I believe it's good. I hope you agree with me.
+1846.I had so many problems so I decided to learn English here.
+1847.I have little free time but I learn English very intensively.
+1848.I tried to find this information.
+1849.I don't know why it didn't happen.
+1850.These things help me.
+1851.Why is it so easy for me?
+1852.We didn't meet the day before yesterday.
+1853.Did you see her last week?
+1854.Why do you think I should do it?
+1855.He sometimes does it.
+1856.I try to control it.
+1857.It's much more important than you think.
+1858.Do you know that they ignore it?
+1859.It cost thirty pounds or a bit less.
+1860.I always do it with great pleasure.
+1861.I want to tell you that it isn't so easy.
+1862.I think you know it.
+1863.How does she prefer to do it?
+1864.Why do they ignore it?
+1865.I remembered everything.
+1866.I wanted to understand native speakers but, of course, I couldn't do it.
+1867.I get so many different e-mails every day.
+1868.I needed to go there.
+1869.Does she drive a car?
+1870.They do it regularly.
+1871.This thing will motivate me much more.
+1872.Do you have a family?
+1873.I can learn English all day.
+1874.I see my progress is so big.
+1875.It was really better.
 
 
 
