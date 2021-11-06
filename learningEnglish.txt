@@ -1311,7 +1311,7 @@ universities
 cities
 countries
 
-shild - shildren ИСКЛЮЧЕНИЕ 
+00shild - shildren ИСКЛЮЧЕНИЕ
 toth - teeth зубы
 man - men мужчины
 woman - women 
@@ -23649,9 +23649,48 @@ in different countries.
 2979.I'll try to speak English more regularly.
 2980.She spoke Spanish.
 
+06.11.2021 498 lesson -------------------------------------------------------------------------------------------------
 
-
-
-
+2981.I don't understand why they don't want to work on their mistakes and I know it seems really strange.
+2982.Do you want to finish this course? Yes, I really want it. I want to understand native speakers. I understand them a
+ bit but I want much more. I want to understand them without any problems.
+2983.She learns English online.
+2984.Will these results depend on us?
+2985.It's more interesting.
+2986.I live in this city.
+2987.She doesn't train so intensively.
+2988.When did you see him last time?
+2989.It was so easy.
+2990.We all know that our president is very popular in our country.
+2991.I visited this place two years ago.
+2992.We sometimes do it.
+2993.Why is it so difficult?
+2994.I often watch these videos which are very useful.
+2995.She has a cat.
+2996.I relaxed a little but it wasn't enough.
+2997.I was really tired.
+2998.Is it a mistake?
+2999.Is it good or bad?
+3000.That course isn't so intensive.
+3001.I feel I do these exercises better.
+3002.I don't know why it doesn't work.
+3003.This text is for us.
+3004.Does she really know it?
+3005.Do you like doing it?
+3006.Do you sometimes make mistakes?
+3007.He likes this course.
+3008.He flew to another country.
+3009.It seems to me you shouldn't think about it seriously.
+3010.It really motivated me.
+3011.We see a zoo.
+3012.This phrase is new for me.
+3011.Why is she still at home?
+3012.When do you want to go?
+3013.I wanted to visit English speaking countries.
+3016.I see how it works.
+3017.I could do these exercises much better when I have more free time.
+3018.This video is very short.
+3019.Doe he really want it?
+3020.Do you make mistakes? I think some mistakes but I want to speak English without mistakes so  I work on it.
 
 
